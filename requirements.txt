@@ -5,3 +5,5 @@ sentencepiece
 safetensors
 spacy
 PyPDF2
+keybert
+scikit-learn
